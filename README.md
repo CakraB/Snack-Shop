@@ -2,4 +2,5 @@
 
 This is a project of programming class
 
-Java Application with Graphical User Interface (GUI)
+## Desc
+Java Application with Graphical User Interface (GUI) and connected with mysql database
